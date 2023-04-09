@@ -1,0 +1,8 @@
+[bot]
+telegram_token = ""
+discord_token = ""
+
+[settings]
+telegram_channel_id = -1001234567890
+discord_channel_id = 1001234567890
+caption = "Это сообщение отправлено мостом https://github.com/json1c/telegram-to-discord-bridge"
